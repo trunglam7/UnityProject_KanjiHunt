@@ -3,7 +3,7 @@
   - Kanji Hunt is a 3D interactive game where the purpose is to learn the meaning of a Kanji under pressure. The game curently has 50 different Kanjis. The player will have to find a single random Kanji from 10 randomly spawned Kanji picked out by a script from the 50 different Kanjis. Should the player find the correct Kanji within the time constraint, the player will win and receive a score of the time they found the coin. Else, the player will simply lose under two conditions: 
     - Continuosly picking up the incorrect coins will reduce the time by 10 seconds, giving the player less time to find the correct coin
     - Once the time hits zero, the player loses
-- Demo Video: https://youtu.be/7hs-Dbxs-zM
+- Demo Video: https://drive.google.com/file/d/1gE-jzYTe-wqxL7rdSRkUdqMz2ozYfLpI/view?usp=sharing
 - References
   - Assets
     - https://assetstore.unity.com/packages/3d/vegetation/trees/japanese-garden-pack-179492
